@@ -1,7 +1,7 @@
 
 # GitHub Profile Page
 
-It's sample GitHub profile page which was designed by me. It's my Guvi-Zen class Day-12(HTML & CSS- Day -5) Task.
+It's sample Survey Form which was designed by me. It's my Guvi-Zen class Day-12(HTML & CSS- Day -5) Task.
 
 ## Tech Stack
 
@@ -18,7 +18,7 @@ It's sample GitHub profile page which was designed by me. It's my Guvi-Zen class
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Survey_Form_Task.png)
 
 
 ## Feedback
