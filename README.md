@@ -12,8 +12,7 @@ It's sample Survey Form which was designed by me. It's my Guvi-Zen class Day-12(
 
 ## Features
 
-- Fullscreen mode
-- Cross platform
+- Responsive Design
 
 
 ## Screenshots
