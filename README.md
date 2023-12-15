@@ -1,5 +1,5 @@
 
-# GitHub Profile Page
+# Survey Form
 
 It's sample Survey Form which was designed by me. It's my Guvi-Zen class Day-12(HTML & CSS- Day -5) Task.
 
