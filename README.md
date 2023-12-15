@@ -10,9 +10,19 @@ It's sample Survey Form which was designed by me. It's my Guvi-Zen class Day-12(
 - Bootstrap
 
 
+## Lessons Learned
+
+I learned to write media Queries in css and some specified classes in Bootstrap during this project
+
+
 ## Features
 
 - Responsive Design
+
+
+## Website
+
+[My Survey Form](https://survey-form-task.vercel.app/)
 
 
 ## Screenshots
