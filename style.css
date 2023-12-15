@@ -40,6 +40,36 @@ th{
     font-weight: 500;
     text-wrap: nowrap;
 }
+.radioDiv{
+    height: 47px;
+}
+.radioDiv1{
+    height: 22px;
+}
+@media screen and (max-width: 1024px) {
+    .radioDiv{
+        height: 70px;
+    }
+    .radioDiv1{
+        height: 47px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .radioDiv{
+        height: 47px;
+    }
+    .radioDiv1{
+        height: 22px;
+    }
+}
+@media screen and (max-width: 425px) {
+    .radioDiv{
+        height: 77px;
+    }
+    .radioDiv1{
+        height: 42px;
+    }
+}
 .btn{
     border: 1px solid gray !important;
     border-radius: 0%;
